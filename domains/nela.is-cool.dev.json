@@ -1,0 +1,18 @@
+{
+    "description": "personal website",
+
+    "domain": "is-cool.dev",
+    "subdomain": "nela",
+
+    "owner": {
+       
+        "email": "fxlimit0@gmail.com"
+    },
+
+    "record": {
+        "A": ["51.83.193.43"],
+        
+    },
+
+    "proxied": false
+}
